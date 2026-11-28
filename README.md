@@ -4,13 +4,10 @@ Ward-Beck Systems M460F, 1974|7. Wiki page: [M460F on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 1 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -33,7 +30,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1974 - M460F - Input Module Schematic.kicad_sch](KICAD/1974%20-%20M460F%20-%20Input%20Module%20Schematic.kicad_sch)
 - [M460F.kicad_sym](KICAD/M460F.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
