@@ -1,6 +1,6 @@
 # M460F Input Module · Input Pre Amps
 
-Ward-Beck Systems M460F, 1974|7. Wiki page: [M460F on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460F.html)
+Ward-Beck Systems M460F, 1974|7. Wiki page: [M460F on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460F-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
